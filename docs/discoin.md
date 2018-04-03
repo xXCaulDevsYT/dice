@@ -1,7 +1,7 @@
 title: Discoin
 description: What Discoin is and how it plays into Dice
 
-# Discoin
+# [Discoin](http://discoin.sidetrip.xyz/)
 
 Discoin is a universal system for bots to exchange currencies with. Dice is integrated with Discoin and oats can be exchanged for other compatible currencies.
 
