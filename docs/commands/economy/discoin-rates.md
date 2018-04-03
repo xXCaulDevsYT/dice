@@ -3,7 +3,7 @@ description: Lists the conversion rates for Discoin currencies
 path: tree/master/commands/economy
 source: discoin-rates.js
 
-# Command
+# Discoin rates
 
 ## Description
 
