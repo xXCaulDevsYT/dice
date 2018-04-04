@@ -16,7 +16,7 @@ Discoin is a universal system for bots to exchange currencies with. Dice is inte
 | EliteLooter | ELT           | 0.9        | 1            |
 | KekBot      | KEK           | 3          | 1            |
 | Pollux      | RBN           | 0.9        | 0.95         |
-| PokeBot     | PCN           | 1.5        | 1            |
+| PokeBot     | PCN           | 4          | 1            |
 
 ## Dice
 

@@ -16,7 +16,7 @@ Lists the conversion rates for Discoin currencies
 | EliteLooter | ELT           | 0.9        | 1            |
 | KekBot      | KEK           | 3          | 1            |
 | Pollux      | RBN           | 0.9        | 0.95         |
-| PokeBot     | PCN           | 1.5        | 1            |
+| PokeBot     | PCN           | 4        | 1            |
 
 ## Aliases
 
