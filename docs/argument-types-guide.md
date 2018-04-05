@@ -3,18 +3,6 @@ description: A guide on understanding the argument types used in commands.
 
 # Argument types guide
 
-string
-integer
-float
-boolean
-user
-member
-role
-channel
-message
-command
-group
-
 | Name    | Description                                                                | Example            |
 |---------|----------------------------------------------------------------------------|--------------------|
 | String  | Any text                                                                   | Breaking rule #4   |
