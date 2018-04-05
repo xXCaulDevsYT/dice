@@ -1,5 +1,5 @@
 title: Discoin
-description: What Discoin is and how it plays into Dice
+description: A guide on Discoin and how it's integrated with Dice
 
 # [Discoin](http://discoin.sidetrip.xyz/)
 
