@@ -36,4 +36,4 @@ Get the top prices for crypto currencies.
 | Name          | Type    | Required | Minimum | Maximum |
 |---------------|---------|----------|---------|---------|
 | Limit         | Integer | No       | 2       | 25      |
-| Currency code | String  | No       |         |         |
+| Currency code | Text    | No       |         |         |

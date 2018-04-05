@@ -30,4 +30,4 @@ Shows an isometric view of a Minecraft user's head.
 
 | Name  | Type | Required | Minimum | Maximum |
 |-------|------|----------|---------|---------|
-| Username | String |Yes |  |  |
+| Username | Text   |Yes |  |  |

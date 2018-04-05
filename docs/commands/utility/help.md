@@ -30,4 +30,4 @@ The command may be part of a command name or a whole command name. If it isn't s
 
 | Name    | Type   | Required |
 |---------|--------|----------|
-| Command | String | No       |
+| Command | Text   | No       |

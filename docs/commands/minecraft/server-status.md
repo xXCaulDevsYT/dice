@@ -36,5 +36,5 @@ Get information about a Minecraft server.
 
 | Name       | Type    | Required | Minimum | Maximum |
 |------------|---------|----------|---------|---------|
-| IP address | String  | Yes      |         |         |
+| IP address | Text    | Yes      |         |         |
 | Port       | Integer | No       | 1       | 65535   |

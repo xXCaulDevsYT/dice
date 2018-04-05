@@ -29,4 +29,4 @@ If no prefix is provided, the current prefix will be shown. If the prefix is "de
 
 | Name   | Type   | Required | Minimum | Maximum |
 |--------|--------|----------|---------|---------|
-| Prefix | String | No       |         | 15      |
+| Prefix | Text   | No       |         | 15      |

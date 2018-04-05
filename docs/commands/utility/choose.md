@@ -29,4 +29,4 @@ Choose an item from a list you provide.
 
 | Name    | Type   | Required | Infinite |
 |---------|--------|----------|----------|
-| Options | String | Yes      | Yes      |
+| Options | Text   | Yes      | Yes      |

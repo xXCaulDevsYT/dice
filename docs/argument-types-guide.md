@@ -5,7 +5,7 @@ description: A guide on understanding the argument types used in commands.
 
 | Name    | Description                                                                | Example            |
 |---------|----------------------------------------------------------------------------|--------------------|
-| String  | Any text                                                                   | Breaking rule #4   |
+| Text    | Any text                                                                   | Breaking rule #4   |
 | Integer | A whole number                                                             | 64                 |
 | Number  | Any number                                                                 | 10.94              |
 | Boolean | True or false                                                              | yes                |

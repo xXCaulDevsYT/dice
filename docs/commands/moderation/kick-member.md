@@ -33,4 +33,4 @@ Kick a member from your server.
 | Name            | Type   | Required |
 |-----------------|--------|----------|
 | Member          | Member | Yes      |
-| Reason for kick | String | No       |
+| Reason for kick | Text   | No       |

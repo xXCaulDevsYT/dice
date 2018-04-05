@@ -41,4 +41,4 @@ Ban any user from your server.
 | Name           | Type   | Required | Minimum | Maximum |
 |----------------|--------|----------|---------|---------|
 | User           | User   | Yes      |         |         |
-| Reason for ban | String | No       |         | 400     |
+| Reason for ban | Text   | No       |         | 400     |

@@ -33,5 +33,5 @@ Look up a crypto currency.
 
 | Name          | Type   | Required |
 |---------------|--------|----------|
-| Name          | String | Yes      |
-| Currency code | String | No       |
+| Name          | Text   | Yes      |
+| Currency code | Text   | No       |

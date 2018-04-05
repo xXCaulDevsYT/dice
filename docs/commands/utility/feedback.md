@@ -32,4 +32,4 @@ Submit bugs and suggestions to the developer.
 
 | Name         | Type   | Required |
 |--------------|--------|----------|
-| UserFeedback | String | Yes      |
+| UserFeedback | Text   | Yes      |

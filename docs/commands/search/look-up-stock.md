@@ -31,4 +31,4 @@ Get the price of a stock.
 
 | Name          | Type   | Required | Minimum | Maximum |
 |---------------|--------|----------|---------|---------|
-| Ticker symbol | String | Yes      |         | 5       |
+| Ticker symbol | Text   | Yes      |         | 5       |

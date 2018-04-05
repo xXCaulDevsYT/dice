@@ -28,4 +28,4 @@ Generate a let-me-Google-that-for-you link.
 
 | Name  | Type   | Required | Maximum |
 |-------|--------|----------|---------|
-| Query | String | Yes      | 500     |
+| Query | Text   | Yes      | 500     |

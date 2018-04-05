@@ -36,5 +36,5 @@ Details
 
 | Name  | Type | Required | Minimum | Maximum |
 |-------|------|----------|---------|---------|
-| Color | String | No       |         |         |
-| Color | String | Yes      |         |         |
+| Color | Text   | No       |         |         |
+| Color | Text   | Yes      |         |         |

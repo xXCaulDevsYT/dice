@@ -28,5 +28,5 @@ Converts text to and from Base64 encoding.
 
 | Name | Type   | Required |
 |------|--------|----------|
-| Mode | String | Yes      |
-| Text | String | Yes      |
+| Mode | Text   | Yes      |
+| Text | Text   | Yes      |

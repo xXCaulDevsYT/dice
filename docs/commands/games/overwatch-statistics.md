@@ -39,6 +39,6 @@ Platforms are pc (PC), xbl (Xbox Live), and psn (PlayStation Network).
 
 | Name      | Type   | Required |
 |-----------|--------|----------|
-| Battletag | String | Yes      |
-| Platform  | String | Yes      |
-| Region    | String | Yes      |
+| Battletag | Text   | Yes      |
+| Platform  | Text   | Yes      |
+| Region    | Text   | Yes      |
