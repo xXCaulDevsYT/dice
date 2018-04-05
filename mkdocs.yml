@@ -1,5 +1,5 @@
 site_name: Dice
-site_url: https://dicediscord.netlify.com
+site_url: https://dice.js.org
 
 theme:
   name: 'material'
