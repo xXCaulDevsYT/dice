@@ -39,5 +39,5 @@ Get statistics of a Fortnite player.
 
 | Name     | Type   | Required |
 |----------|--------|----------|
-| Platform | Text   | No       |
+| Platform | Text   | Yes      |
 | Username | Text   | Yes      |
