@@ -38,7 +38,7 @@ Ban any user from your server.
 
 ### Arguments
 
-| Name           | Type   | Required | Minimum | Maximum |
-|----------------|--------|----------|---------|---------|
-| User           | User   | Yes      |         |         |
-| Reason for ban | Text   | No       |         | 400     |
+| Name           | Type   | Required | Maximum |
+|----------------|--------|----------|---------|
+| User           | User   | Yes      |         |
+| Reason for ban | Text   | No       | 400     |
