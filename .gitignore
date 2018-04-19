@@ -9,3 +9,6 @@ node_modules/
 
 # MacOS file system
 .DS_Store
+
+# PM2 settings
+.config.js
