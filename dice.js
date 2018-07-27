@@ -21,11 +21,11 @@ Raven.config(config.sentryURI).install();
 
 // Set up bot client and settings
 const client = new CommandoClient({
-	commandPrefix: '$$',
-	owner: '210024244766179329',
+	commandPrefix: 'd!',
+	owner: '395509201402855424',
 	disableEveryone: true,
 	unknownCommandResponse: false,
-	invite: 'https://discord.gg/NpUmRkj'
+	invite: 'https://discord.gg/Y8xhHM'
 });
 
 // Set up Keen client
@@ -367,13 +367,13 @@ const checkDiscoinTransactions = async() => {
 		method: 'GET',
 		url: 'http://discoin.sidetrip.xyz/transactions',
 		headers: { Authorization: config.discoinToken }
-	}).catch(error => winston.error('[DICE] Error in Discoin transaction GETting', error));
+	}).catch(error => winston.error('[DICE] Error in Techit transaction GETting', error));
 
 	winston.debug('[DICE] All Discoin transactions:', transactions);
 
 	for(const transaction of transactions) {
 		if(transaction.type !== 'refund') {
-			winston.debug('[DICE] Discoin transaction fetched:', transaction);
+			winston.debug('[DICE] Techit transaction fetched:', transaction);
 			diceAPI.increaseBalance(transaction.user, transaction.amount);
 
 			const embed = new MessageEmbed({
@@ -581,7 +581,7 @@ client
 					value: `\`${userBalance.toLocaleString()}\` ${config.currency.plural}`
 				},
 				{
-					name: `🏦 ${client.user.username} Balance`,
+					name: `🏦 ${client.user.username} Techit Balance`,
 					value: `\`${houseBalance.toLocaleString()}\` ${config.currency.plural}`
 				}
 				]
@@ -620,7 +620,7 @@ client
 					value: `\`${userBalance.toLocaleString()}\` ${config.currency.plural}`
 				},
 				{
-					name: `🏦 ${client.user.username} Balance`,
+					name: `🏦 ${client.user.username} Techit Balance`,
 					value: `\`${houseBalance.toLocaleString()}\` ${config.currency.plural}`
 				}
 				]
